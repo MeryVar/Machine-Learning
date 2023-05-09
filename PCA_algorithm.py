@@ -106,7 +106,3 @@ print("Sorted V = ", eigenvectors_descending)
 
 percent_saved = percent_info_saved(eigenvalues_descending, k)
 print("Percent of information saved = {:.2f}%".format(percent_saved))
-
-
-
-
