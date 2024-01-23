@@ -26,10 +26,10 @@ This Python script implements a simple linear regression model with optional L1 
    pip install numpy
    ```
 
-2. Run the script `Linear_regression_L1_L2_regularization.py`:
+2. Run the script `linear_regression_l1_l2_regularization.py`:
 
    ```bash
-   python Linear_regression_L1_L2_regularization.py
+   python linear_regression_l1_l2_regularization.py
    ```
 
 ## Notes
